@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="628" viewBox="0 0 50 628" fill="none" stroke="#343431" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(4 5) rotate(-5 20 20)"><path d="M8 14 7 3 16 9Q25 5 30 9L37 3 36 16Q43 36 23 37Q3 37 8 14Z"/><path d="M14 19v3m15-3v3m-10 4q4 5 8 0M3 21l8 2m-8 4 8-1m23-3 7-3m-6 6 7 1"/><path d="m20 13 2-2 2 2"/></g>
+<text x="8" y="0" stroke="none" fill="#343431" font-family="Comic Sans MS,cursive" font-size="11" transform="translate(0 59) rotate(-7 20 0)">smile</text>
+<g transform="translate(7 75)"><path d="M7 11Q-1-1 4 0q9 2 8 12m11 0Q22 0 28 0q6 1 1 13M8 13Q-3 33 17 36q23 0 13-23Q18 7 8 13Z"/><path d="M10 21v2m13-2v2m-10 5q4 3 8 0m-8 7-3 7m13-7 4 7"/></g>
+<path d="m24 125-3 7-6 2 6 3 2 7 3-7 6-2-6-3Z"/>
+<g transform="translate(7 155) rotate(6 18 15)"><path d="M3 7h25v20q-12 7-24 0ZM29 10q16-2 11 10-3 5-10 2M0 32h36M9 1q-3-5 0-9m11 9q-3-5 1-9"/><path d="M10 16v2m11-2v2m-10 5q5 3 10-1"/></g>
+<text x="12" y="215" stroke="none" fill="#343431" font-family="Comic Sans MS,cursive" font-size="12" transform="rotate(6 20 215)">cute</text>
+<g transform="translate(10 232)"><path d="M2 4h25l3 7v25H1V10ZM2 11h27M7 4V0h14v4M7 17h16v12H7Z"/><path d="m11 20 2 3 5-4m-4 10v6m-9-2 4 2m15-3-4 3"/></g>
+<g transform="translate(8 284)"><path d="M5 5 8 0l6 5q5-2 10 0l7-4v9q11 26-12 25Q-5 35 5 5Z"/><path d="M9 17h4m11 0h4m-16 6q7 6 13-1m-20-3h4m-3 4h4m19-4h5m-5 4h5"/></g>
+<g transform="translate(25 345)"><circle r="9"/><path d="M-3-2v1m6-1v1m-6 4q3 3 6 0M0-15v-5m0 35v5m15-20h5m-35 0h-5m9-11-4-4m26 26 4 4m-4-26 4-4m-26 26-4 4"/></g>
+<path d="M20 386q-6-6-10 0-2 6 12 14 15-13 7-17-5-2-9 3Z"/>
+<g transform="translate(5 422)"><path d="M9 9Q-3-3 3-5q7-2 12 13m11 1Q27-8 32-6q7 3 0 18M9 10Q0 20 6 31q13 9 27-2Q43 6 21 7Z"/><path d="M13 17v3m14-3v3m-10 6q5 4 8-1M4 23H0m4 4H0m35-4h5m-5 5h5"/></g>
+<path d="m24 477-2 7-7 3 7 2 3 8 2-8 7-3-8-2Z"/>
+<text x="7" y="520" stroke="none" fill="#343431" font-family="Comic Sans MS,cursive" font-size="12" transform="rotate(-8 20 520)">hello!</text>
+<g transform="translate(7 540)"><path d="M3 8q0-14 9-2 8-5 14 0 12-13 11 3 5 23-17 22Q-2 31 3 8Z"/><path d="M10 13v3m17-3v3m-11 4 3 2 3-2m-9 4q6 5 12-1M2 20l6 1m26-1-5 1"/></g>
+<path d="M23 589q-11 4-5 14t15 0q6-12-7-15m-2 5v5m-3 5q4 4 8-1"/>
+</svg>

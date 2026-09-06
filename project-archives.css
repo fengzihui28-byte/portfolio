@@ -1,0 +1,12 @@
+.scene-wall{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px 14px}
+.scene-wall figure{min-width:0;scroll-margin-top:25px}
+.scene-wall .gallery-image{height:auto;aspect-ratio:4/3;padding:4px}
+.scene-wall .gallery-image img{object-fit:cover}
+.scene-wall figcaption{font-size:11px;color:#bdb5ac;padding-top:7px;line-height:1.8}
+.scene-wall figcaption small{display:block;font-size:9px;color:#938c85}
+.team-gallery .gallery-image{height:auto;padding:7px}
+.team-gallery img{width:100%;height:auto}
+.team-gallery figcaption{font-size:12px;color:#bdb5ac;padding-top:12px}
+.team-gallery figcaption small{display:block;font-size:10px;color:#938c85;margin-top:4px}
+@media(max-width:900px){.scene-wall{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:420px){.scene-wall{gap:15px 10px}.scene-wall figcaption small{display:none}}
